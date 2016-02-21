@@ -6,6 +6,7 @@ public class Test1 {
 		// TODO 自动生成的方法存根
 		System.out.println("Hello,Git");
 		System.out.println("hello,mygril");
+		System.out.println("develop");
 	}
 
 }
